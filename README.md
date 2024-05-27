@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/67244497?v=4" alt="Estudiante de Ingeniería Civil en informática" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/67244497?v=4" alt="Estudiante de Ingeniería Civil en informática" style="border-radius: 100%;">
 </p>
 <h3 align="center">Hola 👋, Soy Camilo Lagos</h3>
 <h4 align="center">Camino a ser un desarrollador Full Stack</h4>
